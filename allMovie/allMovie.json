@@ -1353,8 +1353,8 @@
   "movieName" : "Mardaani 2 (2019)",
   "pathName" : false,
   "rating" : "pDVDRip",
-  "videoUrl" : "https://millipittu.s3.us-east-2.amazonaws.com/movies/Mardaani+2+(2019)+9678.mkv",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FMardaani%202%20(2019)%20%209678.mkv?alt=media&token=b49c51a6-fbf3-4e17-93b5-8b3b82535416"
+  "videoUrl" : "https://sauolt.s3.us-east-2.amazonaws.com/movies/Mardaani+2+(2019)+9678.mkv",
+  "videoUrlSecond" : "https://sauolt.s3.us-east-2.amazonaws.com/movies/Mardaani+2+(2019)+9678.mkv"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/aa44/subyysefrbhv6eu6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/7fc0/sx8p1j6e20uwjyp6g.jpg",
