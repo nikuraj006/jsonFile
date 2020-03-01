@@ -1,7 +1,7 @@
 [ {
   "ImageUrlHorizontal" : "https://i.ytimg.com/vi/4f9jIdg4rTQ/hqdefault.jpg",
   "ImageUrlVertical" : "https://i.ytimg.com/vi/4f9jIdg4rTQ/hqdefault.jpg",
-  "Industry" : "South",
+  "Industry" : "Bollywood",
   "activity" : 1,
   "catergory" : "",
   "directOne" : false,
@@ -20,8 +20,8 @@
   "rating" : "HD 720p",
   "videoUrl" : "https://miloto.s3.us-east-2.amazonaws.com/movies/The+Body+(2019)+2443.mkv"
 },{
-  "ImageUrlHorizontal" : "https://i.ytimg.com/vi/QiFuG2SdRxA/hqdefault.jpg",
-  "ImageUrlVertical" : "https://i.ytimg.com/vi/QiFuG2SdRxA/hqdefault.jpg",
+  "ImageUrlHorizontal" : "https://i.ytimg.com/vi/QiFuG2SdRxA/maxresdefault.jpg",
+  "ImageUrlVertical" : "https://i.ytimg.com/vi/QiFuG2SdRxA/maxresdefault.jpg",
   "Industry" : "South",
   "activity" : 1,
   "catergory" : "",
@@ -29,14 +29,14 @@
   "directSecond" : false,
   "downloadUrlOne" : false,
   "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://i.ytimg.com/vi/QiFuG2SdRxA/hqdefault.jpg",
-  "driveImageUrlVertical" : "https://i.ytimg.com/vi/QiFuG2SdRxA/hqdefault.jpg",
+  "driveImageUrlHorizontal" : "	",
+  "driveImageUrlVertical" : "https://i.ytimg.com/vi/QiFuG2SdRxA/maxresdefault.jpg",
   "htmlFile" : "https://www.2515",
   "id" : 2000,
   "keyName" : false,
   "latest" : "no",
   "latestCatergory" : "FALSE",
-  "movieName" : "Thappad (2020)",
+  "movieName" : "Anjani Putra (2020)",
   "pathName" : false,
   "rating" : "HD 720p",
   "videoUrl" : "http://www.mediafire.com/file/2ofi1c1l75f4rj7/filmy4wap.xyz_Anjani_Putra_%255B2020%255DHEVC_New_South_Hindi_HD.mkv"
