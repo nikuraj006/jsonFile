@@ -20,6 +20,27 @@
   "rating" : "HD 720p",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20%5BNo%2018%2B%20Here%5D%2FContagion%20%2FContagion.2011.720p.BluRay.Hindi.Dual-Audio.x264-HDmovieshub.cc.mkv?alt=media&token=74e53f61-b3ae-48cc-bed5-918160b5722d"
 },{
+  "ImageUrlHorizontal" : "https://family.foxmovies.com/s3/dev-temp/en-US/__5e3db0744c196.jpg",
+  "ImageUrlVertical" : "https://family.foxmovies.com/s3/dev-temp/en-US/__5e3db0744c196.jpg",
+  "Industry" : "Hollywood",
+  "activity" : 1,
+  "catergory" : "Action",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://family.foxmovies.com/s3/dev-temp/en-US/__5e3db0744c196.jpg",
+  "driveImageUrlVertical" : "https://family.foxmovies.com/s3/dev-temp/en-US/__5e3db0744c196.jpg",
+  "htmlFile" : "https://www.3244",
+  "id" : 597,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "FALSE",
+  "movieName" : "Spies in Disguise (2019)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/2019%2FHolly%2FSpies%20in%20Disguise%2FSpies.In.Disguise.2019%20%5BFilmyGod%5D%20720p.Bluray.Hin-Eng.x264.ESub.mkv?alt=media&token=ad0286d9-1c55-4aab-99ce-2554890d336c"
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/df9f/frsc2ypeswrkv6i6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/c2ba/prpllvtk2cxpvqz6g.jpg",
   "Industry" : "Hollywood",
