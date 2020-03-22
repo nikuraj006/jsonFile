@@ -1,4 +1,15 @@
 [{
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/05d0/a6443s4agzfbbf66g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/aee4/t55e9w9e964hnm46g.jpg",
+  "Industry" : "Hollywood",
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/05d0/a6443s4agzfbbf66g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/6e62/jh5iba9s36pmqi56g.jpg",
+  "htmlFile" : "https://www.4607",
+  "movieName" : "World War Z (2013) [Hindi]",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/verdant-doodad-250906.appspot.com/o/Bharat%20-%20Update%20%5BNo%2018%2B%20Here%5D%2FWorld%20War%20Z%2FWorld.War.Z.2013.480p.BluRay.Hin-Eng.x264-HDMovieshub.cc.mkv?alt=media&token=adb4d4b3-42bf-4aff-a726-65b1a04f7cb2"
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/4e9a/gxifetroy8gkxwx6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/7654/kodwjp21s5oxoyu6g.jpg",
   "Industry" : "Bollywood",
@@ -43929,29 +43940,7 @@
   "rating" : "HD 720p",
   "videoUrl" : "Kp8Mn_hOpx4",
   "videoUrlSecond" : "Kp8Mn_hOpx4"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/05d0/a6443s4agzfbbf66g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/aee4/t55e9w9e964hnm46g.jpg",
-  "Industry" : "Hollywood",
-  "activity" : 1,
-  "catergory" : "Thriller",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/05d0/a6443s4agzfbbf66g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/6e62/jh5iba9s36pmqi56g.jpg",
-  "htmlFile" : "https://www.4607",
-  "id" : 1945,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "World War Z (2013) [Hindi]",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FWorld%20War%20Z%20%5BHindi%5D%204607.mkv?alt=media&token=15730c1a-915c-4705-a7a1-7890b309da49",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FWorld%20War%20Z%20%5BHindi%5D%204607.mkv?alt=media&token=15730c1a-915c-4705-a7a1-7890b309da49"
-}, {
+},  {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/266a/o3m0nc3wp03xi7l6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/6e62/jh5iba9s36pmqi56g.jpg",
   "Industry" : "Hollywood",
