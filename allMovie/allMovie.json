@@ -1,4 +1,16 @@
 [{
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/af48/o1ugjwvxclmfzqe6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/9531/v5o3van4vsw8lrb6g.jpg",
+  "Industry" : "Hollywood",
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/af48/o1ugjwvxclmfzqe6g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/11a9/1o1u7vha551gpck6g.jpg",
+  "htmlFile" : "https://www.9977",
+  "movieName" : "Final Score (2019)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FFinal%20Score%20%2FFinal.Score.2018.480p.BRRip.Hindi.Dual.Audio.HDmovieshub.pw.mkv?alt=media&token=40343ace-b814-42ae-84cd-5e3e8cb79d95",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FFinal%20Score%20%2FFinal.Score.2018.720p.BRRip.Hindi.Dual.Audio.HDmovieshub.pw.mkv?alt=media&token=583038e6-0e26-4d4e-ad37-14fcabf283c0"
+},{
   "ImageUrlHorizontal" : "https://i.ytimg.com/vi/7Soz3xcVhck/maxresdefault.jpg",
   "ImageUrlVertical" : "https://i.ytimg.com/vi/7Soz3xcVhck/maxresdefault.jpg",
   "Industry" : "Hollywood",
@@ -2896,29 +2908,7 @@
   "rating" : "pDVDRip",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/rare-cubist-246817.appspot.com/o/Bharat%2FBollywood%2FDARBAR%20(2020)%20Hindi%20(Cleaned)%20x264%20AAC%20700MB%20-%20HDMovieshub.pw.mkv?alt=media&token=53fd27f3-0017-4ac8-9408-193af550b68a",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/newmovie%2FDARBAR%20(2020).mkv?alt=media&token=78c3d97d-c7fa-462b-9d1c-b8ae4ba67ecb"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/af48/o1ugjwvxclmfzqe6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/9531/v5o3van4vsw8lrb6g.jpg",
-  "Industry" : "Hollywood",
-  "activity" : 1,
-  "catergory" : "Drama",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/af48/o1ugjwvxclmfzqe6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/11a9/1o1u7vha551gpck6g.jpg",
-  "htmlFile" : "https://www.9977",
-  "id" : 17,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Final Score (2019)",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/newmovie%2FFinal%20Score%20(2018)%209977.mkv?alt=media&token=ecb435d4-f2cb-4c78-b6b7-d302cd62d938",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/newmovie%2FFinal%20Score%20(2018)%209977.mkv?alt=media&token=ecb435d4-f2cb-4c78-b6b7-d302cd62d938"
-}, {
+},  {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/cd70/0m9ljz45t2so51g6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/11a9/1o1u7vha551gpck6g.jpg",
   "Industry" : "Bollywood",
