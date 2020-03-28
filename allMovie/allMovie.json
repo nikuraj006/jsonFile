@@ -27,7 +27,7 @@
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/e280/3vby44htykw5obu6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/e553/ua152df56v1exx56g.jpg",
-  "Industry" : "Hollywood"
+  "Industry" : "Hollywood",
   "movieName" : "Wrong Turn 2 (2007) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
@@ -43,7 +43,7 @@
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/20db/2duj7ohn5epay4n6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/e633/wg7cflge2eqnx8o6g.jpg",
-  "Industry" : "Hollywood"
+  "Industry" : "Hollywood",
   "movieName" : "Wrong turn IV (2011)",
   "pathName" : false,
   "rating" : "HD 720p",
@@ -99,7 +99,7 @@
 },{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/c8d1/efoo5qjhz88sf3g6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/9ea3/wblm9tepbql5ojw6g.jpg",
-  "Industry" : "Bollywood"
+  "Industry" : "Bollywood",
   "latestCatergory" : "FALSE",
   "movieName" : "Lust Stories (2018)",
   "pathName" : false,
@@ -944,12 +944,6 @@
   "downloadUrlSecond" : false,
   "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/e181/acuhfzzzvbzp29b6g.jpg",
   "driveImageUrlVertical" : "https://www.mediafire.com/convkey/a2c4/uecdve93g6honpo6g.jpg",
-  "htmlFile" : "https://www.3254",
-  "htmlFile" : "https://www.3254",
-  "htmlFile" : "https://www.3254",
-  "htmlFile" : "https://www.3254",
-  "htmlFile" : "https://www.3254",
-  "htmlFile" : "https://www.3254",
   "htmlFile" : "https://www.3254",
   "id" : 607,
   "keyName" : false,
