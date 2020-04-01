@@ -1,4 +1,12 @@
-[ {
+[  {
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/1d57/c5nmv0mydhgwa9c6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/5874/yz0cfccue9udwps6g.jpg",
+  "Industry" : "Hollywood",
+  "movieName" : "Rampage (2018) [Hindi]",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://filedn.com/lW51BqJspC3QQ6m0wJEHPC5/movie/Rampage.2018.Hindi.Dubbed.720p.BluRay.x264.mp4"
+}, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/65fd/2cq3mdo9154nnjt6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/8b8a/j8j48w0ezobx6886g.jpg",
   "Industry" : "Bollywood",
@@ -17784,29 +17792,7 @@
   "rating" : "HD 720p",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FSetters%20(2019)%203350.mkv?alt=media&token=27e2af78-0aed-41f3-b8bb-f4f6a32da64b",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FSetters%20(2019)%203350.mkv?alt=media&token=27e2af78-0aed-41f3-b8bb-f4f6a32da64b"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/1d57/c5nmv0mydhgwa9c6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/5874/yz0cfccue9udwps6g.jpg",
-  "Industry" : "Hollywood",
-  "activity" : 1,
-  "catergory" : "Action",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/1d57/c5nmv0mydhgwa9c6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/1c13/0kjqv7hr9hespvh6g.jpg",
-  "htmlFile" : "https://www.3351",
-  "id" : 703,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "yes",
-  "movieName" : "Rampage (2018) [Hindi]",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FRampage%20(2018)%203351.mkv?alt=media&token=03f487bc-0df8-4381-a2bf-c56dc867b9ec",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FRampage%20(2018)%203351.mkv?alt=media&token=03f487bc-0df8-4381-a2bf-c56dc867b9ec"
-}, {
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/0c81/p7cm49aied0azx86g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/1c13/0kjqv7hr9hespvh6g.jpg",
   "Industry" : "Hollywood",
