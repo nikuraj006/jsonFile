@@ -1,4 +1,4 @@
-[   {
+[ {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/65fd/2cq3mdo9154nnjt6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/8b8a/j8j48w0ezobx6886g.jpg",
   "Industry" : "Bollywood",
@@ -21,6 +21,14 @@
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/2019%2Fhindi%2FSatyameva%20Jayate%2FSatyameva%20Jayate%202018%20Hindi%20FilmyGod%20480p%20HDRip.mkv?alt=media&token=406abc53-b740-4cec-abb5-93cd397f90ef",
   "videoUrlSecond" : "https://drive.google.com/open?id=1KxK0y0PExSug5EJhz5KdFpbFKAYOrhCi"
 }, {
+  "ImageUrlHorizontal" : "https://i.ytimg.com/vi/HbJFQ8ViRzw/maxresdefault.jpg",
+  "ImageUrlVertical" : "https://i.ytimg.com/vi/HbJFQ8ViRzw/maxresdefault.jpg",
+  "Industry" : "Punjabi",
+  "movieName" : "Shooter (2020)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/punjabi%2F220%2FShooter%20(2020)%2FShooter%20(2020)%20Punjabi%20CBRip%20x264%20AAC.mkv?alt=media&token=006683a4-0dbe-44bc-8130-907e009d5ef7"
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/2e6c/4ctgbijsjb053g36g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/fc1e/585sn7zeb75z5126g.jpg",
   "Industry" : "Bollywood",
