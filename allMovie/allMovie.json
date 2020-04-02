@@ -1,4 +1,12 @@
-[ {
+[  {
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/a44e/3ov4irucvarstki6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/7bc9/iyeoecd97sruy776g.jpg",
+  "Industry" : "Bollywood",
+  "movieName" : "Rab Ne Bana Di Jodi (2008)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://www.my4kvideo.info/Jab%20Tak%20Hai%20Jaan%20(2012).mp4"
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/164f/sofjs6t7eoup1j76g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/48df/0j34okugidw568a6g.jpg",
   "Industry" : "Bollywood",
@@ -17824,28 +17832,6 @@
   "rating" : "HD 720p",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FIncredibles%202%20(2018)%20%5BHindi%5D%203352.mkv?alt=media&token=0dc6e48b-62b0-432f-b104-9fb03c79251c",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FIncredibles%202%20(2018)%20%5BHindi%5D%203352.mkv?alt=media&token=0dc6e48b-62b0-432f-b104-9fb03c79251c"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/a44e/3ov4irucvarstki6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/7bc9/iyeoecd97sruy776g.jpg",
-  "Industry" : "Bollywood",
-  "activity" : 1,
-  "catergory" : "Drama",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/a44e/3ov4irucvarstki6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/54df/2jd638f18k5xkm06g.jpg",
-  "htmlFile" : "https://www.3353",
-  "id" : 705,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Rab Ne Bana Di Jodi (2008)",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FRab%20Ne%20Bana%20Di%20Jodi%202008%203353.mkv?alt=media&token=448a0606-78eb-471e-8aca-421a21a6c64a",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FRab%20Ne%20Bana%20Di%20Jodi%202008%203353.mkv?alt=media&token=448a0606-78eb-471e-8aca-421a21a6c64a"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/4943/svagj9ammkwb4jh6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/54df/2jd638f18k5xkm06g.jpg",
@@ -38355,23 +38341,10 @@
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/0987/jhogl0t0balnolu6g.jpg",
   "Industry" : "Hollywood",
   "activity" : 1,
-  "catergory" : "Thriller",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/0c4d/ljbh9z1l71a5qhj6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/f19f/f49f8v2wu5vkztm6g.jpg",
-  "htmlFile" : "https://www.4352",
-  "id" : 1693,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
   "movieName" : "Inception (2010) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FInception%20(2010)%204352.mkv?alt=media&token=b1a420d3-bd16-48b2-9b20-8057f92b278d",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FInception%20(2010)%204352.mkv?alt=media&token=b1a420d3-bd16-48b2-9b20-8057f92b278d"
+  "videoUrl" : "https://www.my4kvideo.info/Inception%20(2010).mp4"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/3c1e/z356fyddblon7sf6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/f19f/f49f8v2wu5vkztm6g.jpg",
