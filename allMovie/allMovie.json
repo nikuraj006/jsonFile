@@ -1,4 +1,48 @@
-[{
+[  {
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/310a/ilwxehl52dm90zh6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/b2bd/x0ovp85nlib2bso6g.jpg",
+  "Industry" : "Hollywood",
+  "activity" : 1,
+  "catergory" : "Fantasy",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/310a/ilwxehl52dm90zh6g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/67d2/94wwfg887tdcnuq6g.jpg",
+  "htmlFile" : "https://www.3389",
+  "id" : 740,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "yes",
+  "movieName" : "The Jungle Book (2016) [Hindi]",
+  "pathName" : false,
+  "rating" : "HD 1080p",
+  "videoUrl" : "https://www.my4kvideo.info/The%20Jungle%20Book%20(2016).mp4",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20jungle%20Book%203389.mkv?alt=media&token=28a802e4-ec65-4e35-87c4-8a4eab8398fb"
+}, {
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/5b17/pk9yhv6h7gyq5ne6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/8c15/ir652r2e1sx7nyr6g.jpg",
+  "Industry" : "Bollywood",
+  "activity" : 1,
+  "catergory" : "Action",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/5b17/pk9yhv6h7gyq5ne6g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/3aa8/tr3ahbvmgzvl7f46g.jpg",
+  "htmlFile" : "https://www.4159",
+  "id" : 1500,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "FALSE",
+  "movieName" : "Singham (2011)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://www.my4kvideo.info/Singham%20(2011).mp4",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FSingham%20(2011)%204159.mkv?alt=media&token=2892158a-e02b-4daf-91a9-626cd9d0c1a6"
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/8e2e/ozc7n5tzz44bboh6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/b8e9/yxv35gbdh33uytx6g.jpg",
   "Industry" : "Bollywood",
@@ -15072,7 +15116,7 @@
   "movieName" : "The Lion King (2019) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FThe%20Lion%20King%20(2019)%20%5BHindi%5D%203193.mkv?alt=media&token=d54eeb42-3740-4621-b7c4-83b55623fd78",
+  "videoUrl" : "https://www.my4kvideo.info/The%20Lion%20King%20(2019).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FThe%20Lion%20King%20(2019)%20%5BHindi%5D%203193.mkv?alt=media&token=d54eeb42-3740-4621-b7c4-83b55623fd78"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/cbd9/8gzgld6dyrgik016g.jpg",
@@ -18792,29 +18836,7 @@
   "rating" : "HD 1080p",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FPari%203388.mkv?alt=media&token=85531c5a-e4b7-44c9-812e-a56733771db2",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FPari%203388.mkv?alt=media&token=85531c5a-e4b7-44c9-812e-a56733771db2"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/310a/ilwxehl52dm90zh6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/b2bd/x0ovp85nlib2bso6g.jpg",
-  "Industry" : "Hollywood",
-  "activity" : 1,
-  "catergory" : "Fantasy",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/310a/ilwxehl52dm90zh6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/67d2/94wwfg887tdcnuq6g.jpg",
-  "htmlFile" : "https://www.3389",
-  "id" : 740,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "yes",
-  "movieName" : "The Jungle Book (2016) [Hindi]",
-  "pathName" : false,
-  "rating" : "HD 1080p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20jungle%20Book%203389.mkv?alt=media&token=28a802e4-ec65-4e35-87c4-8a4eab8398fb",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20jungle%20Book%203389.mkv?alt=media&token=28a802e4-ec65-4e35-87c4-8a4eab8398fb"
-}, {
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/f963/kueuczarjvexlqi6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/67d2/94wwfg887tdcnuq6g.jpg",
   "Industry" : "HollywoodEnglish",
@@ -34369,28 +34391,6 @@
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FSingh%20is%20Kinng%20(2008)%204158.mp4?alt=media&token=43486de2-387e-4427-8801-b9f14df0c528",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FSingh%20is%20Kinng%20(2008)%204158.mp4?alt=media&token=43486de2-387e-4427-8801-b9f14df0c528"
 }, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/5b17/pk9yhv6h7gyq5ne6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/8c15/ir652r2e1sx7nyr6g.jpg",
-  "Industry" : "Bollywood",
-  "activity" : 1,
-  "catergory" : "Action",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/5b17/pk9yhv6h7gyq5ne6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/3aa8/tr3ahbvmgzvl7f46g.jpg",
-  "htmlFile" : "https://www.4159",
-  "id" : 1500,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Singham (2011)",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FSingham%20(2011)%204159.mkv?alt=media&token=2892158a-e02b-4daf-91a9-626cd9d0c1a6",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FSingham%20(2011)%204159.mkv?alt=media&token=2892158a-e02b-4daf-91a9-626cd9d0c1a6"
-}, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/1c7f/emjni5yauf3wij36g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/3aa8/tr3ahbvmgzvl7f46g.jpg",
   "Industry" : "Bollywood",
@@ -42977,7 +42977,7 @@
   "movieName" : "The Twilight Saga Eclipse (2010) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20Twilight%20Saga%20Eclipse%20(2010)%20%5BHindi%5D%204573.mkv?alt=media&token=5d6df21a-5632-4a3a-a18c-038e8e2e249f",
+  "videoUrl" : "https://www.my4kvideo.info/The%20Twilight%20Saga%203%20Eclipse%20(2010).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20Twilight%20Saga%20Eclipse%20(2010)%20%5BHindi%5D%204573.mkv?alt=media&token=5d6df21a-5632-4a3a-a18c-038e8e2e249f"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/4b33/9tiecasdd82bgp56g.jpg",
@@ -43329,7 +43329,7 @@
   "movieName" : "Twilight (2008) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FTwilight%20(2008)%20%5BHindi%5D%204589.mkv?alt=media&token=957ae3ab-4e68-4f60-a043-cea778d56cf5",
+  "videoUrl" : "https://www.my4kvideo.info/Twilight%20(2008).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FTwilight%20(2008)%20%5BHindi%5D%204589.mkv?alt=media&token=957ae3ab-4e68-4f60-a043-cea778d56cf5"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/2f5d/xdlxqperfcrb42l6g.jpg",
