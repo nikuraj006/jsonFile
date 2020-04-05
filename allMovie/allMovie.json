@@ -1,4 +1,171 @@
-[ {
+[   {
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/dfc9/3rwgqcbqifn1z1z6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/d0f4/64cmxklw1iieegb6g.jpg",
+  "Industry" : "Hollywood",
+  "activity" : 1,
+  "catergory" : "Fantasy",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/dfc9/3rwgqcbqifn1z1z6g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/0aa0/hxivycsifx1ebwg6g.jpg",
+  "htmlFile" : "https://www.4578",
+  "id" : 1916,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "FALSE",
+  "movieName" : "Thor Ragnarok (2017) [Hindi]",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://www.my4kvideo.info/Thor%20Ragnarok%20(2017).mp4",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThor%20Ragnarok%20(2017)%204578.mkv?alt=media&token=287e7da1-7e1c-4cad-bc4d-2c09fd49ce17"
+}, {
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/02ea/o83cp3hlwosl36e6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/837b/i24jxdxov2jjilv6g.jpg",
+  "Industry" : "Hollywood",
+  "activity" : 1,
+  "catergory" : "Fantasy",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/02ea/o83cp3hlwosl36e6g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/9799/5u4gwr0nmbmab8t6g.jpg",
+  "htmlFile" : "https://www.3242",
+  "id" : 595,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "FALSE",
+  "movieName" : "Spider Man Far From Home (2019) [Hindi]",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://www.my4kvideo.info/Spider-Man%20Far%20from%20Home%20(2019).mp4",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FSpider-Man%20Far%20From%20Home%20(2019)%203242.mkv?alt=media&token=7163c4e4-64c7-4e69-9546-22810963bb05"
+}, {
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/77c2/xsmu4c5cep6dtxa6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/603a/g36ab87z5vet7px6g.jpg",
+  "Industry" : "Bollywood",
+  "activity" : 1,
+  "catergory" : "Thriller",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/77c2/xsmu4c5cep6dtxa6g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/4a4b/1s9sfcvelmx8uok6g.jpg",
+  "htmlFile" : "https://www.3395",
+  "id" : 746,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "FALSE",
+  "movieName" : "Sonchiriya (2019)",
+  "pathName" : false,
+  "rating" : "HD 1080p",
+  "videoUrl" : "https://www.my4kvideo.info/Sonchiriya%20(2019).mp4",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FSonchiriya%20(2019)%203395.mkv?alt=media&token=4ece78ea-d06b-46f0-9fce-7073d49636b5"
+},  {
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/3b27/xw91m214tikfwdo6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/d852/rjsgvaso92wu2356g.jpg",
+  "Industry" : "Bollywood",
+  "activity" : 1,
+  "catergory" : "Drama",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/3b27/xw91m214tikfwdo6g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/8804/4nato4udogfnu1w6g.jpg",
+  "htmlFile" : "https://www.3027",
+  "id" : 381,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "FALSE",
+  "movieName" : "Mohabbatein (2000)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://filedn.com/lW51BqJspC3QQ6m0wJEHPC5/movie/Mohabbatein.2000.Hindi.DVDRip.x264.mp4",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMohabbatein%20(2000)%203027.mkv?alt=media&token=e6e287e8-5de4-4284-a2b3-ac413a285fb8"
+}, {
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/edb3/qkynn5xl7eljvw26g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/92b4/k3rrlg51akr3v8d6g.jpg",
+  "Industry" : "Bollywood",
+  "activity" : 1,
+  "catergory" : "Drama",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/edb3/qkynn5xl7eljvw26g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/e6b6/6ug5s5rc17meq886g.jpg",
+  "htmlFile" : "https://www.9289",
+  "id" : 120,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "FALSE",
+  "movieName" : "Dosti Ke Side Effects (2019)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://www.my4kvideo.info/Dosti%20ke%20Side%20Effects%20(2019).mp4",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FDosti%20Ke%20Side%20Effects%20(2019)%209289.mkv?alt=media&token=bf7ef157-5838-4dd9-9153-e859ab2d3177"
+},{
+  "ImageUrlHorizontal" : "https://i.ytimg.com/vi/gM6EIt4S3Ps/maxresdefault.jpg",
+  "ImageUrlVertical" : "https://i.ytimg.com/vi/gM6EIt4S3Ps/maxresdefault.jpg",
+  "Industry" : "South",
+  "driveImageUrlHorizontal" : "https://i.ytimg.com/vi/gM6EIt4S3Ps/maxresdefault.jpg",
+  "driveImageUrlVertical" : "https://i.ytimg.com/vi/gM6EIt4S3Ps/maxresdefault.jpg",
+  "htmlFile" : "https://www.3382",
+  "id" : 733,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "yes",
+  "movieName" : "Diljala Aashiq (Naa Nuvve) (2020)",
+  "videoUrl" : "https://filedn.com/lW51BqJspC3QQ6m0wJEHPC5/movie/Diljala%20Aashiq%20(Naa%20Nuvve)%20(2020)%20FilmyGod%20720p%20HDRip%20x264%20AAC%20Hindi%20Dubbed.mp4"
+},{
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/2e74/oq2qlyuv5ueusa26g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/976c/feqak0rc0mgwuql6g.jpg",
+  "Industry" : "Bollywood",
+  "activity" : 1,
+  "catergory" : "Thriller",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/2e74/oq2qlyuv5ueusa26g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/463f/7gewrn8a5eol7fl6g.jpg",
+  "htmlFile" : "https://www.4044",
+  "id" : 1385,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "FALSE",
+  "movieName" : "Missing On A Weekend (2016)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://www.my4kvideo.info/Missing%20On%20A%20Weekend%20(2017).mp4",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMissing%20On%20A%20Weekend%20(2016)%204044.mkv?alt=media&token=9b8be810-654e-4afa-aa00-e00522239e94"
+},{
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/3b9d/8elh0oyqyra66ez6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/a692/g3vevchivgd402p6g.jpg",
+  "Industry" : "Bollywood",
+  "activity" : 1,
+  "catergory" : "Action",
+  "directOne" : false,
+  "directSecond" : false,
+  "downloadUrlOne" : false,
+  "downloadUrlSecond" : false,
+  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/3b9d/8elh0oyqyra66ez6g.jpg",
+  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/2f0c/i7g0c1vdcjwr4ry6g.jpg",
+  "htmlFile" : "https://www.3281",
+  "id" : 633,
+  "keyName" : false,
+  "latest" : "no",
+  "latestCatergory" : "FALSE",
+  "movieName" : "Bharat (2019)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://www.my4kvideo.info/Bharat%20(2019).mp4",
+  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FBharat%20(2019)%203281.mp4?alt=media&token=9e21a006-1d2c-4961-8415-8ac837357d60"
+},{
   "ImageUrlHorizontal" : "https://i.ytimg.com/vi/rrVhYFWmrZs/maxresdefault.jpg",
   "ImageUrlVertical" : "https://i.ytimg.com/vi/rrVhYFWmrZs/maxresdefault.jpg",
   "Industry" : "Bollywood",
@@ -1993,19 +2160,6 @@
   "latestCatergory" : "yes",
   "movieName" : "Black and Blue (2019)",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/2019%2FHolly%2FBlack%20and%20Blue%2FBlack.and.Blue.2019%20FilmyGod%20720p.BluRay.Hin-Eng.x265.mkv?alt=media&token=56d51989-8038-4f17-899f-58a20e0a005d"
-},{
-  "ImageUrlHorizontal" : "https://i.ytimg.com/vi/gM6EIt4S3Ps/maxresdefault.jpg",
-  "ImageUrlVertical" : "https://i.ytimg.com/vi/gM6EIt4S3Ps/maxresdefault.jpg",
-  "Industry" : "South",
-  "driveImageUrlHorizontal" : "https://i.ytimg.com/vi/gM6EIt4S3Ps/maxresdefault.jpg",
-  "driveImageUrlVertical" : "https://i.ytimg.com/vi/gM6EIt4S3Ps/maxresdefault.jpg",
-  "htmlFile" : "https://www.3382",
-  "id" : 733,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "yes",
-  "movieName" : "Diljala Aashiq (Naa Nuvve) (2020)",
-  "videoUrl" : "https://video-downloads.googleusercontent.com/AMfe5wr9GCPXetGHDhn6qaqHpYgoXbp6FJ87VY8vWBWB94EYFzILKJKc5uanRJe2i92nmUIXmlIw66pgWho61BcRYiANBVuQtr_D_h_If7wsCXwPmbkXADUfR92098uMEtLEUT15tXQeZOXpFhes1GLwzZyYC5-vtiYmEun4SxQSiUq7TWnrlcTnzCBhPFZzy9QRta3SiMPurASIOETu-h450LW227hUgA"
 },{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/abad/mwi0vdapdmiwsye6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/6d32/f8l6lhxqeuxt1zz6g.jpg",
@@ -6701,28 +6855,6 @@
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FStealing%20Las%20Vegas%20(2012)%209285.mkv?alt=media&token=5a6f974d-6bde-481d-a280-ff775c219acb",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FStealing%20Las%20Vegas%20(2012)%209285.mkv?alt=media&token=5a6f974d-6bde-481d-a280-ff775c219acb"
 }, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/edb3/qkynn5xl7eljvw26g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/92b4/k3rrlg51akr3v8d6g.jpg",
-  "Industry" : "Bollywood",
-  "activity" : 1,
-  "catergory" : "Drama",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/edb3/qkynn5xl7eljvw26g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/e6b6/6ug5s5rc17meq886g.jpg",
-  "htmlFile" : "https://www.9289",
-  "id" : 120,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Dosti Ke Side Effects (2019)",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FDosti%20Ke%20Side%20Effects%20(2019)%209289.mkv?alt=media&token=bf7ef157-5838-4dd9-9153-e859ab2d3177",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FDosti%20Ke%20Side%20Effects%20(2019)%209289.mkv?alt=media&token=bf7ef157-5838-4dd9-9153-e859ab2d3177"
-}, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/935f/o1mxdo8sln6zpkt6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/e6b6/6ug5s5rc17meq886g.jpg",
   "Industry" : "Hollywood",
@@ -6830,7 +6962,7 @@
   "movieName" : "Book of eli (2010)",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FBook%20of%20eli%20(2010)%209220.mkv?alt=media&token=743d14b1-bd09-4444-9e6c-d35986021f32",
+  "videoUrl" : "https://www.my4kvideo.info/The%20Book%20of%20Eli%20(2010).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FBook%20of%20eli%20(2010)%209220.mkv?alt=media&token=743d14b1-bd09-4444-9e6c-d35986021f32"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/0911/jpiq9f2rttecn1f6g.jpg",
@@ -8150,7 +8282,7 @@
   "movieName" : "Rattlesnake (2019) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FRattlesnake%20(2019)%208980.mkv?alt=media&token=cd26ffdf-bda2-4671-ae9f-ac1fa2bf9d7d",
+  "videoUrl" : "https://www.my4kvideo.info/Rattlesnake%20(2019).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FRattlesnake%20(2019)%208980.mkv?alt=media&token=cd26ffdf-bda2-4671-ae9f-ac1fa2bf9d7d"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/9d7f/jwtfqyvjpr4ayvo6g.jpg",
@@ -10812,7 +10944,7 @@
   "movieName" : "Camp Wedding (2019) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FCamp%20Wedding%20(2019)%208497.mkv?alt=media&token=16cf71fd-2c7b-4d26-b396-82def1686ab3",
+  "videoUrl" : "https://www.my4kvideo.info/Camp%20Wedding%20(2019).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FCamp%20Wedding%20(2019)%208497.mkv?alt=media&token=16cf71fd-2c7b-4d26-b396-82def1686ab3"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/6586/u8zdnjj2yr4l4a56g.jpg",
@@ -10900,7 +11032,7 @@
   "movieName" : "Wanted (2008) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FWanted%20(2008)%208501.mkv?alt=media&token=3e1ad917-bb2f-4bf9-a300-ee38506c335f",
+  "videoUrl" : "https://www.my4kvideo.info/Wanted%202009.mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FWanted%20(2008)%208501.mkv?alt=media&token=3e1ad917-bb2f-4bf9-a300-ee38506c335f"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/bf93/7ugevzkzcxz78v46g.jpg",
@@ -11318,7 +11450,7 @@
   "movieName" : "Rahasya (2015)",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://drive.google.com/open?id=1lS04w-KUj38FSr1D58-m6V9rb_iu0rWp",
+  "videoUrl" : "https://www.my4kvideo.info/Rahasya%20(2015).mp4",
   "videoUrlSecond" : "https://drive.google.com/open?id=1lS04w-KUj38FSr1D58-m6V9rb_iu0rWp"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/cdd1/8g0okkyjdq1epmx6g.jpg",
@@ -11826,28 +11958,6 @@
   "rating" : "HD 720p",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FPrassthanam%20(2019)%203023.mkv?alt=media&token=99278a97-c041-4ab6-ba4c-57464c3e5031",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FPrassthanam%20(2019)%203023.mkv?alt=media&token=99278a97-c041-4ab6-ba4c-57464c3e5031"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/3b27/xw91m214tikfwdo6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/d852/rjsgvaso92wu2356g.jpg",
-  "Industry" : "Bollywood",
-  "activity" : 1,
-  "catergory" : "Drama",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/3b27/xw91m214tikfwdo6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/8804/4nato4udogfnu1w6g.jpg",
-  "htmlFile" : "https://www.3027",
-  "id" : 381,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Mohabbatein (2000)",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMohabbatein%20(2000)%203027.mkv?alt=media&token=e6e287e8-5de4-4284-a2b3-ac413a285fb8",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMohabbatein%20(2000)%203027.mkv?alt=media&token=e6e287e8-5de4-4284-a2b3-ac413a285fb8"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/4305/sdets60ubg7h18p6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/8804/4nato4udogfnu1w6g.jpg",
@@ -15146,7 +15256,7 @@
   "movieName" : "Jhoota Kahin Ka (2019)",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FJhootha%20Kahin%20Ka%20(2019)%203194.mkv?alt=media&token=9e0d78b8-e653-4775-a73f-a7dc600c2677",
+  "videoUrl" : "",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FJhootha%20Kahin%20Ka%20(2019)%203194.mkv?alt=media&token=9e0d78b8-e653-4775-a73f-a7dc600c2677"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/07d9/7z5pc5vm6l71yth6g.jpg",
@@ -16029,28 +16139,6 @@
   "videoUrl" : "https://drive.google.com/open?id=1hs8p2GUhpZQPKpmCaly2E-O667DXBK06",
   "videoUrlSecond" : "https://drive.google.com/open?id=1hs8p2GUhpZQPKpmCaly2E-O667DXBK06"
 },{
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/02ea/o83cp3hlwosl36e6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/837b/i24jxdxov2jjilv6g.jpg",
-  "Industry" : "Hollywood",
-  "activity" : 1,
-  "catergory" : "Fantasy",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/02ea/o83cp3hlwosl36e6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/9799/5u4gwr0nmbmab8t6g.jpg",
-  "htmlFile" : "https://www.3242",
-  "id" : 595,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Spider Man Far From Home (2019) [Hindi]",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FSpider-Man%20Far%20From%20Home%20(2019)%203242.mkv?alt=media&token=7163c4e4-64c7-4e69-9546-22810963bb05",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FSpider-Man%20Far%20From%20Home%20(2019)%203242.mkv?alt=media&token=7163c4e4-64c7-4e69-9546-22810963bb05"
-}, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/9799/5u4gwr0nmbmab8t6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/9799/5u4gwr0nmbmab8t6g.jpg",
   "Industry" : "South",
@@ -16733,28 +16821,6 @@
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/punjabipend%2FBlackia%202019%203280.mp4?alt=media&token=60b0ad58-c97f-47b3-9f6c-3bdd42b5be10",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/punjabipend%2FBlackia%202019%203280.mp4?alt=media&token=60b0ad58-c97f-47b3-9f6c-3bdd42b5be10"
 }, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/3b9d/8elh0oyqyra66ez6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/a692/g3vevchivgd402p6g.jpg",
-  "Industry" : "Bollywood",
-  "activity" : 1,
-  "catergory" : "Action",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/3b9d/8elh0oyqyra66ez6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/2f0c/i7g0c1vdcjwr4ry6g.jpg",
-  "htmlFile" : "https://www.3281",
-  "id" : 633,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Bharat (2019)",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FBharat%20(2019)%203281.mp4?alt=media&token=9e21a006-1d2c-4961-8415-8ac837357d60",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FBharat%20(2019)%203281.mp4?alt=media&token=9e21a006-1d2c-4961-8415-8ac837357d60"
-}, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/b77e/clxl15axdfxbd396g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/2f0c/i7g0c1vdcjwr4ry6g.jpg",
   "Industry" : "HollywoodEnglish",
@@ -16972,7 +17038,7 @@
   "movieName" : "Howl (2015) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FHowl%20(2015)%20%5BHindi%5D%203291.mkv?alt=media&token=b140db60-52f8-494e-8825-28a2058dd88f",
+  "videoUrl" : "https://www.my4kvideo.info/Howl%20(2015).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FHowl%20(2015)%20%5BHindi%5D%203291.mkv?alt=media&token=b140db60-52f8-494e-8825-28a2058dd88f"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/ccbc/yx5wdbcx1tnvno06g.jpg",
@@ -18116,7 +18182,7 @@
   "movieName" : "The Conjuring 2 (2016) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20Conjuring%202%20(2016)%203347.mkv?alt=media&token=ce3fe406-bdaf-451d-9f13-76fd1e824758",
+  "videoUrl" : "https://www.my4kvideo.info/The%20Conjuring%202%20(2016).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20Conjuring%202%20(2016)%203347.mkv?alt=media&token=ce3fe406-bdaf-451d-9f13-76fd1e824758"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/c18e/6s4u4ccnz6ywndg6g.jpg",
@@ -18886,7 +18952,7 @@
   "movieName" : "The Curse of La lorona (2019) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FThe%20Curse%20of%20La%20Llorona%20(2019)%203391.mp4?alt=media&token=4321778e-c602-4eef-95c5-398b81fa6042",
+  "videoUrl" : "https://www.my4kvideo.info/The%20Curse%20of%20La%20Llorona%20(2019).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/mostview%2FThe%20Curse%20of%20La%20Llorona%20(2019)%203391.mp4?alt=media&token=4321778e-c602-4eef-95c5-398b81fa6042"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/29bc/n3cdorq2dha1x8w6g.jpg",
@@ -18932,29 +18998,7 @@
   "rating" : "English",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FDaddy%20Issues%20(2018)%203394.mkv?alt=media&token=895db2bb-ec35-4de6-b4ea-533a88bd5add",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FDaddy%20Issues%20(2018)%203394.mkv?alt=media&token=895db2bb-ec35-4de6-b4ea-533a88bd5add"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/77c2/xsmu4c5cep6dtxa6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/603a/g36ab87z5vet7px6g.jpg",
-  "Industry" : "Bollywood",
-  "activity" : 1,
-  "catergory" : "Thriller",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/77c2/xsmu4c5cep6dtxa6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/4a4b/1s9sfcvelmx8uok6g.jpg",
-  "htmlFile" : "https://www.3395",
-  "id" : 746,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Sonchiriya (2019)",
-  "pathName" : false,
-  "rating" : "HD 1080p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FSonchiriya%20(2019)%203395.mkv?alt=media&token=4ece78ea-d06b-46f0-9fce-7073d49636b5",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FSonchiriya%20(2019)%203395.mkv?alt=media&token=4ece78ea-d06b-46f0-9fce-7073d49636b5"
-}, {
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/81f7/6e8tz5iqfjwze2l6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/4a4b/1s9sfcvelmx8uok6g.jpg",
   "Industry" : "Hollywood",
@@ -22714,7 +22758,7 @@
   "movieName" : "Badhaai Ho (2018)",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FBadhaai%20Ho%20(2018)%203589.mp4?alt=media&token=4e68f9bf-6f82-4ccc-9d74-63a8638b6bdf",
+  "videoUrl" : "https://www.my4kvideo.info/Badhaai%20Ho%20(2018).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FBadhaai%20Ho%20(2018)%203589.mp4?alt=media&token=4e68f9bf-6f82-4ccc-9d74-63a8638b6bdf"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/b11f/j8lev5w2yswiiqf6g.jpg",
@@ -23198,7 +23242,7 @@
   "movieName" : "Stree (2018)",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FStree%20(2018)%203614.mkv?alt=media&token=5d27332d-721c-493a-a95d-c0a2a968a204",
+  "videoUrl" : "https://www.my4kvideo.info/Stree%20(2018).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FStree%20(2018)%203614.mkv?alt=media&token=5d27332d-721c-493a-a95d-c0a2a968a204"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/2030/gh8ezf1czrv338e6g.jpg",
@@ -23924,7 +23968,7 @@
   "movieName" : "The Predator 2018 [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FThe%20Predator%202018%20%5BHindi%5D%203653.mp4?alt=media&token=cf605223-3856-4fde-b8c3-31191fece1fb",
+  "videoUrl" : "https://www.my4kvideo.info/The%20Predator%20(2018).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FThe%20Predator%202018%20%5BHindi%5D%203653.mp4?alt=media&token=cf605223-3856-4fde-b8c3-31191fece1fb"
 },  {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/6602/mfkikjja12hpuo06g.jpg",
@@ -26784,7 +26828,7 @@
   "movieName" : "Bachna Ae Haseeno (2008)",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FBachna%20Ae%20Haseeno%20(2008)%203795.mkv?alt=media&token=10d5c5bf-dec9-4092-93d1-3e64d57d4f7d",
+  "videoUrl" : "https://www.my4kvideo.info/Bachna%20Ae%20Haseeno%202008.mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FBachna%20Ae%20Haseeno%20(2008)%203795.mkv?alt=media&token=10d5c5bf-dec9-4092-93d1-3e64d57d4f7d"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/77b5/6bnsky1cpp98mte6g.jpg",
@@ -28544,7 +28588,7 @@
   "movieName" : "Ek Thi Daayan (2013)",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://drive.google.com/open?id=1RkqX9HwcMMRC-NiDf3yBSnE1bGaj6Tik",
+  "videoUrl" : "https://www.my4kvideo.info/Ek%20Thi%20Daayan%20(2013).mp4",
   "videoUrlSecond" : "https://drive.google.com/open?id=1RkqX9HwcMMRC-NiDf3yBSnE1bGaj6Tik"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/2e37/f1fwij3nqdquzu66g.jpg",
@@ -28742,7 +28786,7 @@
   "movieName" : "Fukrey Returns (2017)",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FFukrey%20Returns%20(2017)%203893.mkv?alt=media&token=31e0ab6e-aff2-4400-be58-980d49cc7721",
+  "videoUrl" : "https://www.my4kvideo.info/Fukrey%20Returns%20(2017).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FFukrey%20Returns%20(2017)%203893.mkv?alt=media&token=31e0ab6e-aff2-4400-be58-980d49cc7721"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/809f/l9uxeoybx95mvmm6g.jpg",
@@ -31934,28 +31978,6 @@
   "rating" : "HD 720p",
   "videoUrl" : "https://drive.google.com/open?id=1nji15g-9NDzH_imQsMNOsF2EpAWQJx8u",
   "videoUrlSecond" : "https://drive.google.com/open?id=1nji15g-9NDzH_imQsMNOsF2EpAWQJx8u"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/2e74/oq2qlyuv5ueusa26g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/976c/feqak0rc0mgwuql6g.jpg",
-  "Industry" : "Bollywood",
-  "activity" : 1,
-  "catergory" : "Thriller",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/2e74/oq2qlyuv5ueusa26g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/463f/7gewrn8a5eol7fl6g.jpg",
-  "htmlFile" : "https://www.4044",
-  "id" : 1385,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Missing On A Weekend (2016)",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMissing%20On%20A%20Weekend%20(2016)%204044.mkv?alt=media&token=9b8be810-654e-4afa-aa00-e00522239e94",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMissing%20On%20A%20Weekend%20(2016)%204044.mkv?alt=media&token=9b8be810-654e-4afa-aa00-e00522239e94"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/0f5a/25d0nw2i0aan9zn6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/463f/7gewrn8a5eol7fl6g.jpg",
@@ -38070,7 +38092,7 @@
   "movieName" : "Hercules (2014) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FHercules%20(2014)%20%5BHindi%5D%204338.mkv?alt=media&token=72ba47ef-c74b-4dc4-9bc8-76a27e194bb3",
+  "videoUrl" : "https://www.my4kvideo.info/Hercules%20Reborn%20(2014).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FHercules%20(2014)%20%5BHindi%5D%204338.mkv?alt=media&token=72ba47ef-c74b-4dc4-9bc8-76a27e194bb3"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/37a5/syl9mtf24x6loum6g.jpg",
@@ -38453,7 +38475,7 @@
   "movieName" : "Insidious Chapter 2 (2013) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FInsidious%20Chapter%202%20%5BHindi%5D%204357.mkv?alt=media&token=e5c625b6-bbcc-4409-826e-75a0324bdda3",
+  "videoUrl" : "https://www.my4kvideo.info/Insidious%20Chapter%202%20(2013).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FInsidious%20Chapter%202%20%5BHindi%5D%204357.mkv?alt=media&token=e5c625b6-bbcc-4409-826e-75a0324bdda3"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/d3de/qh103ew15tgszol6g.jpg",
@@ -39421,7 +39443,7 @@
   "movieName" : "Lucy (2014) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FLucy%20(2014)%20%5BHindi%5D%204402.mkv?alt=media&token=cd018ba2-e066-4b12-a027-a8468019bd3f",
+  "videoUrl" : "",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FLucy%20(2014)%20%5BHindi%5D%204402.mkv?alt=media&token=cd018ba2-e066-4b12-a027-a8468019bd3f"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/cd97/m8eunv0kre5g6pj6g.jpg",
@@ -41753,7 +41775,7 @@
   "movieName" : "The Conjuring (2013) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20Conjuring%20(2013)%20%5BHindi%5D%204514.mkv?alt=media&token=7c3ce623-0a9b-4307-b420-9ab00cc62cca",
+  "videoUrl" : "https://www.my4kvideo.info/The%20Conjuring%20(2013).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20Conjuring%20(2013)%20%5BHindi%5D%204514.mkv?alt=media&token=7c3ce623-0a9b-4307-b420-9ab00cc62cca"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/2b73/erbez84rue171506g.jpg",
@@ -41885,7 +41907,7 @@
   "movieName" : "The Expendables 3 (2014) [Hindi]",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20Expendables%203%20(2014)%20%5BHindi%5D%204520.mkv?alt=media&token=78fd8a31-f5dd-4aee-a6e7-0e0651809499",
+  "videoUrl" : "https://www.my4kvideo.info/TheExpendables%203%20(2014).mp4",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThe%20Expendables%203%20(2014)%20%5BHindi%5D%204520.mkv?alt=media&token=78fd8a31-f5dd-4aee-a6e7-0e0651809499"
 },  {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/4310/30rwi7btdw40jqi6g.jpg",
@@ -43075,29 +43097,7 @@
   "rating" : "HD 720p",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThor%20(2011)%204577.mkv?alt=media&token=c0ab47f4-9d65-4122-b240-937a1181f421",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThor%20(2011)%204577.mkv?alt=media&token=c0ab47f4-9d65-4122-b240-937a1181f421"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/dfc9/3rwgqcbqifn1z1z6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/d0f4/64cmxklw1iieegb6g.jpg",
-  "Industry" : "Hollywood",
-  "activity" : 1,
-  "catergory" : "Fantasy",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/dfc9/3rwgqcbqifn1z1z6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/0aa0/hxivycsifx1ebwg6g.jpg",
-  "htmlFile" : "https://www.4578",
-  "id" : 1916,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Thor Ragnarok (2017) [Hindi]",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThor%20Ragnarok%20(2017)%204578.mkv?alt=media&token=287e7da1-7e1c-4cad-bc4d-2c09fd49ce17",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2FThor%20Ragnarok%20(2017)%204578.mkv?alt=media&token=287e7da1-7e1c-4cad-bc4d-2c09fd49ce17"
-}, {
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/7e16/qu5fajyg49gg2b46g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/0aa0/hxivycsifx1ebwg6g.jpg",
   "Industry" : "Hollywood",
