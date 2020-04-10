@@ -1,4 +1,12 @@
 [   {
+  "ImageUrlHorizontal" : "https://s3images.zee5.com/wp-content/uploads/2020/04/pjimage-2020-04-06T131300.059.jpg",
+  "ImageUrlVertical" : "https://s3images.zee5.com/wp-content/uploads/2020/04/pjimage-2020-04-06T131300.059.jpg",
+  "Industry" : "Bollywood",
+  "movieName" : "Bamfaad (2020)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/2020%2Fbolly%2FBamfaad%20(2020)%2FBamfaad%202020%20%5BFilmyGod%5D%20WebRip%20Hindi%20720p%20x264%20AAC%20ESub.mkv?alt=media&token=af2eec08-56e9-4138-8d56-d9179dc5f04d"
+}, {
   "ImageUrlHorizontal" : "https://cdn1.thr.com/sites/default/files/2017/12/catch_me_if_you_can_-_h_-_2002.jpg",
   "ImageUrlVertical" : "https://cdn1.thr.com/sites/default/files/2017/12/catch_me_if_you_can_-_h_-_2002.jpg",
   "Industry" : "Hollywood",
