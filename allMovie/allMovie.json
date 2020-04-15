@@ -1,4 +1,28 @@
-[  {
+[ {
+  "ImageUrlHorizontal" : "https://i.ytimg.com/vi/5TxnwlDn7w0/hqdefault.jpg",
+  "ImageUrlVertical" : "https://i.ytimg.com/vi/5TxnwlDn7w0/hqdefault.jpg",
+  "Industry" : "Hollywood",
+  "movieName" : "404 Error Not Found (2011)",
+  "pathName" : false,
+  "rating" : "pDVDRip",
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/bolly-c8e2f.appspot.com/o/bollywood%2Fold%2Fbelow%20200%2F1%2F404%20Error%20Not%20Found%20(2011)%2F404%20Error%20Not%20Found%202011%20%5BFilmyGod%5D%20WebRip%20Hindi%20480p%20ESub.mkv?alt=media&token=42fc31dc-3ce4-4ba9-8ca9-742ce3eed419"
+},{
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/e7fb/c3rom4nwd3rae8s6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/51b3/464nea3xkopmzsa6g.jpg",
+  "Industry" : "Hollywood",
+  "movieName" : "Jojo Rabbit (2019)",
+  "pathName" : false,
+  "rating" : "pDVDRip",
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/2019%2FHolly%2FJojo%20Rabbit%20(2019)%2FJojo.Rabbit.2019%20%5BFilmyGod%5D%20480p.BluRay.Hindi.Dual-Audio.x264.mkv?alt=media&token=50d3972a-afb9-4f40-a607-083e2fe78ed1"
+}, {
+  "ImageUrlHorizontal" : "https://i.ytimg.com/vi/t8QmUooXmAY/maxresdefault.jpg",
+  "ImageUrlVertical" : "https://i.ytimg.com/vi/t8QmUooXmAY/maxresdefault.jpg",
+  "Industry" : "South",
+  "movieName" : "Jung For Love 2020 (Premika)",
+  "pathName" : false,
+  "rating" : "HD 720p",
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/webseries-ad115.appspot.com/o/2020%2Fsouth%2FJung%20For%20Love%202020%2FJung%20For%20Love%202020%20Hindi%20Dubbed%20FilmyGod%20480p%20HDRip.mkv?alt=media&token=161d524a-fe73-42b9-8d30-c97f5554cdf9"
+},{
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/bdf1/xeco11zbtu7tbko6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/9a82/sg3beo3y7b1jced6g.jpg",
   "Industry" : "Hollywood",
@@ -8657,29 +8681,7 @@
   "rating" : "HD 720p",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2Finfernal%20(2015)%208908.mkv?alt=media&token=064e0eb9-9604-4172-859a-0ffb3a39b573",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/webseries%2Fnew%2Finfernal%20(2015)%208908.mkv?alt=media&token=064e0eb9-9604-4172-859a-0ffb3a39b573"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/e7fb/c3rom4nwd3rae8s6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/51b3/464nea3xkopmzsa6g.jpg",
-  "Industry" : "HollywoodEnglish",
-  "activity" : 3,
-  "catergory" : "Drama",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/e7fb/c3rom4nwd3rae8s6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/a36b/uf0ckgludisat3q6g.jpg",
-  "htmlFile" : "https://www.8909",
-  "id" : 208,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "FALSE",
-  "movieName" : "Jojo Rabbit (2019)",
-  "pathName" : false,
-  "rating" : "pDVDRip",
-  "videoUrl" : "https://drive.google.com/open?id=1fmkyowIpcyeUBnMrgaFlPozM9a__ezoq",
-  "videoUrlSecond" : "https://drive.google.com/open?id=1fmkyowIpcyeUBnMrgaFlPozM9a__ezoq"
-}, {
+},  {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/9f10/rkgh44zzr3xz9ry6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/a36b/uf0ckgludisat3q6g.jpg",
   "Industry" : "Adult",
