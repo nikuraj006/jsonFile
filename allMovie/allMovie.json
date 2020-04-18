@@ -1,4 +1,14 @@
-[ {
+[{
+  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/8be1/7ymatcwhy6mddzj6g.jpg",
+  "ImageUrlVertical" : "https://www.mediafire.com/convkey/8be1/7ymatcwhy6mddzj6g.jpg",
+  "Industry" : "South",
+  "activity" : 1,
+  "catergory" : "Thriller",
+  "movieName" : "Marshal (2019)",
+  "pathName" : false,
+  "rating" : "HD 1080p",
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/regal-spark-250506.appspot.com/o/south%2F2019%2FMarshal%20(2019)%2FMarshal%202019%20FilmyGod%20Dual%20Audio%20Hindi%20Telugu%20480p%20HDRip.mkv?alt=media&token=0f3ea148-738c-42b1-b5d3-ef11f86b7718"
+},{
   "ImageUrlHorizontal" : "https://i.ytimg.com/vi/5TxnwlDn7w0/hqdefault.jpg",
   "ImageUrlVertical" : "https://i.ytimg.com/vi/5TxnwlDn7w0/hqdefault.jpg",
   "Industry" : "Hollywood",
@@ -4790,7 +4800,7 @@
   "movieName" : "Shubh Mangal Zyada Saavdhan (2020)",
   "pathName" : false,
   "rating" : "HD 720p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/light-lacing-247408.appspot.com/o/bolle%2FShubh%20Mangal%20Zyada%20Saavdhan%2FHDMovieshub.club%20-%20Shubh%20Mangal%20Zyada%20Saavdhan%20(2020)%20Hindi%20720p%20PreDVD%20x264%20AAC%201.2GB%20HDMovieshub.club.mkv?alt=media&token=8c829d1b-fe3a-44df-ab73-9870881ff080"
+  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/regal-spark-250506.appspot.com/o/Bolly%2F2020%2FShubh%20Mangal%20Zyada%20Saavdhan%2FShubh.Mangal.Zyada.Saavdhan.(2020)%20%5BFilmyGod%5D%20480p.WEBRip.x264.AAC.mkv?alt=media&token=c40384d7-61b0-422e-928c-6f4860893051"
 },{
   "ImageUrlHorizontal" : "https://i.ytimg.com/vi/EZ8lTqDmSyQ/hqdefault.jpg",
   "ImageUrlVertical" : "https://i.ytimg.com/vi/EZ8lTqDmSyQ/hqdefault.jpg",
@@ -19901,28 +19911,6 @@
   "rating" : "HD 1080p",
   "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMain%20Hi%20Raja%20Main%20Hi%20Mantri%20(2017)%203433.mkv?alt=media&token=380a9289-c286-460a-a6ee-3fea30a0943e",
   "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMain%20Hi%20Raja%20Main%20Hi%20Mantri%20(2017)%203433.mkv?alt=media&token=380a9289-c286-460a-a6ee-3fea30a0943e"
-}, {
-  "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/8be1/7ymatcwhy6mddzj6g.jpg",
-  "ImageUrlVertical" : "https://www.mediafire.com/convkey/8be1/7ymatcwhy6mddzj6g.jpg",
-  "Industry" : "South",
-  "activity" : 1,
-  "catergory" : "Thriller",
-  "directOne" : false,
-  "directSecond" : false,
-  "downloadUrlOne" : false,
-  "downloadUrlSecond" : false,
-  "driveImageUrlHorizontal" : "https://www.mediafire.com/convkey/8be1/7ymatcwhy6mddzj6g.jpg",
-  "driveImageUrlVertical" : "https://www.mediafire.com/convkey/5f61/bwqyaxpzhyv2imf6g.jpg",
-  "htmlFile" : "https://www.3434",
-  "id" : 785,
-  "keyName" : false,
-  "latest" : "no",
-  "latestCatergory" : "yes",
-  "movieName" : "Marshal (2019)",
-  "pathName" : false,
-  "rating" : "HD 1080p",
-  "videoUrl" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMarshal%20(2019)%203434.mp4?alt=media&token=045dd548-fd50-484f-8e2c-2b251dc62b48",
-  "videoUrlSecond" : "https://firebasestorage.googleapis.com/v0/b/alldata-1af05.appspot.com/o/bol%2FMarshal%20(2019)%203434.mp4?alt=media&token=045dd548-fd50-484f-8e2c-2b251dc62b48"
 }, {
   "ImageUrlHorizontal" : "https://www.mediafire.com/convkey/5f61/bwqyaxpzhyv2imf6g.jpg",
   "ImageUrlVertical" : "https://www.mediafire.com/convkey/5f61/bwqyaxpzhyv2imf6g.jpg",
