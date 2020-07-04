@@ -1,12 +1,4 @@
-[  {
-  "ImageUrlHorizontal" : "https://i.ytimg.com/vi/sy5ACTAnOJM/hqdefault.jpg",
-  "ImageUrlVertical" : "https://i.ytimg.com/vi/sy5ACTAnOJM/hqdefault.jpg",
-  "Industry" : "Bollywood",
-  "movieName" : "Kai Po Che",
-  "pathName" : false,
-  "rating" : "HD 720p",
-  "videoUrl" : "sy5ACTAnOJM"
-}, {
+[ {
   "ImageUrlHorizontal" : "https://thescrbblr.in/wp-content/uploads/2020/05/BeFunky-collage-85-min.jpg",
   "ImageUrlVertical" : "https://thescrbblr.in/wp-content/uploads/2020/05/BeFunky-collage-85-min.jpg",
   "Industry" : "Bollywood",
